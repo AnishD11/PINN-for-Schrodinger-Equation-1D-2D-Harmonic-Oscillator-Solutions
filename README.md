@@ -1,1 +1,1 @@
-# PINN-for-Schrodinger-Equation-1D-2D-Quantum-Oscillator-Solution-
+# PINN-for-Schrodinger-Equation-1D-2D-Harmonic-Oscillator-Solution-
