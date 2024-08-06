@@ -19,3 +19,4 @@ The wavefunctions discovered by the networks are presented below:
 
 While the codes are written specially for the harmonic oscillator problem, they can be modified for any potential or any other differential equation in the form of eigenvalue problem.
 
+''
