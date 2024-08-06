@@ -13,5 +13,7 @@ This approch is totally unsupervised, meaning the network acts like a numerical 
 
 $L= \alpha L_{DE}+\beta L_{norm}+\gamma L_{ortho}$
 
+![1dwf](https://github.com/AnishD11/PINN-for-Schrodinger-Equation-1D-2D-Harmonic-Oscillator-Solutions/blob/main/1dwf.png)
+
 While the codes are written specially for the harmonic oscillator problem, they can be modified for any potential or any other differential equation in the form of eigenvalue problem.
 
