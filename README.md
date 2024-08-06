@@ -22,11 +22,6 @@ While the codes are written specially for the harmonic oscillator problem, they 
 
 ---
 ## Resources
-- **Original PINN Paper:** [Link to the paper](https://example.com)
-- **Official Software Implementation:** [Link to the software](https://example.com)
-- **Machine Learning Perspective:** [Link to the post](https://example.com)
-- **Physics Perspective:** [Link to the post](https://example.com)
-- **Original PINN Paper:** [Link to the paper](https://example.com)
-- **Official Software Implementation:** [Link to the software](https://example.com)
-- **Machine Learning Perspective:** [Link to the post](https://example.com)
-- **Physics Perspective:** [Link to the post](https://example.com)
+- **Original PINN Paper:** [Link to the paper]((https://doi.org/10.48550/arXiv.2203.00451))
+- **Official Software Implementation:** [Link to the software]((https://github.com/henry1jin/quantumNN/tree/main))
+- **Reference for 2D Problem:** [Link to the post](https://github.com/pmaczuga/pinn-notebooks)
