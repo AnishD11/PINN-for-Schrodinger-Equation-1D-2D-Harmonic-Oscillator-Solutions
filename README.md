@@ -19,3 +19,14 @@ The wavefunctions discovered by the networks are presented below:
 ![Predicted wave functions for the two-dimensional problem](https://github.com/AnishD11/PINN-for-Schrodinger-Equation-1D-2D-Harmonic-Oscillator-Solutions/blob/main/2dwf.png)
 
 While the codes are written specially for the harmonic oscillator problem, they can be modified for any potential or any other differential equation in the form of eigenvalue problem.
+
+---
+## Resources
+- **Original PINN Paper:** [Link to the paper](https://example.com)
+- **Official Software Implementation:** [Link to the software](https://example.com)
+- **Machine Learning Perspective:** [Link to the post](https://example.com)
+- **Physics Perspective:** [Link to the post](https://example.com)
+- **Original PINN Paper:** [Link to the paper](https://example.com)
+- **Official Software Implementation:** [Link to the software](https://example.com)
+- **Machine Learning Perspective:** [Link to the post](https://example.com)
+- **Physics Perspective:** [Link to the post](https://example.com)
