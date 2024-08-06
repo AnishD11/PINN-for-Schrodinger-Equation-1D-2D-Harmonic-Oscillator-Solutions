@@ -11,4 +11,4 @@ $\psi(r)\longrightarrow 0 \hspace{4pt}as\hspace{4pt} r \longrightarrow \infty \h
 
 This approch is totally unsupervised, meaning the network acts like a numerical solver of differential equations. The loss function is in the following form:
 
-$\mathcal{L} = \alpha\mathcal{L}_{DE} + \beta\mathcal{L}_{norm} + \gamma{\mathcal{L}_{ortho}$
+$\mathcal{L} = \alpha \mathcal{L}_{DE} + \beta\mathcal{L}_{norm} + \gamma{\mathcal{L}_{ortho}$
