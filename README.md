@@ -10,4 +10,4 @@ $\left[-\frac{\hbar^2}{2m} \left(\frac{\partial^2}{\partial x^2} + \frac{\partia
 $\psi(r)\longrightarrow 0 \hspace{4pt}as\hspace{4pt} r \longrightarrow \infty \hspace{4pt} where\hspace{4pt} r = \sqrt{x^2+y^2}$
 
 This approch is totally unsupervised, meaning the network acts like a numerical solver of differential equations. The loss function is in the following form:\
-$\mathcal{L} =  \alpha{\mathcal{L}_{DE}$
+$\mathcal{L} =  \alpha\mathcal{L}_{DE}$
