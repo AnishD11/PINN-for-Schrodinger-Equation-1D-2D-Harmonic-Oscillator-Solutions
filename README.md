@@ -21,11 +21,10 @@ The wavefunctions discovered by the networks are presented below:
 While the codes are written specifically for the harmonic oscillator problem, they can be modified for any potential or any other differential equation in the form of eigenvalue problem.
 
 The follwing dependenices are required:
-![Flat](https://img.shields.io/badge/Style-Flat-blue?style=flat)
-![Flat-Square](https://img.shields.io/badge/Style-FlatSquare-blue?style=flat-square)
-![Plastic](https://img.shields.io/badge/Style-Plastic-blue?style=plastic)
-![For-the-Badge](https://img.shields.io/badge/Style-ForTheBadge-blue?style=for-the-badge)
-![Social](https://img.shields.io/badge/Style-Social-blue?style=social)
+[![PyTorch](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png)](https://pytorch.org/docs/stable/index.html)  
+[![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png)](https://numpy.org/doc/stable/)  
+[![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png)](https://matplotlib.org/stable/contents.html)  
+[![TQDM](https://github.com/tqdm/tqdm/raw/master/images/tqdm.svg)](https://tqdm.github.io/)  
 
 
 
