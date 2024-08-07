@@ -25,7 +25,7 @@ Dependencies:
 [![PyTorch](https://img.shields.io/badge/PyTorch-v2.0-red?style=flat&logo=pytorch)](https://pytorch.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-v1.24-blue?style=flat&logo=numpy)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.5-green?style=flat&logo=matplotlib)](https://matplotlib.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.5-green?style=flat&logo=[https://cdn.phidgets.com/education/wp-content/uploads/2021/04/Matplotlib_icon.png](https://matplotlib.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.5-green?style=flat&logo=[(https://cdn.phidgets.com/education/wp-content/uploads/2021/04/Matplotlib_icon.png)](https://matplotlib.org/)
 [![TQDM](https://img.shields.io/badge/TQDM-v4.0-orange?style=flat&logo=tqdm)](https://tqdm.github.io/)
 
 
