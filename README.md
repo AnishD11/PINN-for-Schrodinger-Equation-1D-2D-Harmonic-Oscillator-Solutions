@@ -21,8 +21,8 @@ The wavefunctions discovered by the networks are presented below:
 While the codes are written specifically for the harmonic oscillator problem, they can be modified for any potential or any other differential equation in the form of eigenvalue problem.
 
 The follwing dependenices are required:
-🟠 **PyTorch** - A deep learning framework.
-🔵 **NumPy** - A library for numerical computations.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" width="20"/> **PyTorch** - A deep learning framework.
+
 
 
 ---
