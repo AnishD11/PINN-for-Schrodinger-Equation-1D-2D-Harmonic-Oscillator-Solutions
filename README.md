@@ -21,12 +21,12 @@ The wavefunctions discovered by the networks are presented below:
 While the codes are written specifically for the harmonic oscillator problem, they can be modified for any potential or any other differential equation in the form of eigenvalue problem.
 
 The follwing dependenices are required:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" width="20"/> [**PyTorch**](https://pytorch.org) - A deep learning framework.  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" width="20"/> [**NumPy**](https://numpy.org) - A library for numerical computations.  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" width="20"/> [**Matplotlib**](https://matplotlib.org) - A plotting library for Python.  
-<img src="https://github.com/tqdm/tqdm/raw/master/images/tqdm.svg" width="20"/> [**TQDM**](https://tqdm.github.io/) - A fast, extensible progress bar for Python.  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Random_Lake_of_Spain.jpg" width="20"/> [**Random**](https://docs.python.org/3/library/random.html) - Python's built-in module for generating random numbers.  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Clock_simple.svg" width="20"/> [**Time**](https://docs.python.org/3/library/time.html) - Python's built-in module for time-related functions.
+![Flat](https://img.shields.io/badge/Style-Flat-blue?style=flat)
+![Flat-Square](https://img.shields.io/badge/Style-FlatSquare-blue?style=flat-square)
+![Plastic](https://img.shields.io/badge/Style-Plastic-blue?style=plastic)
+![For-the-Badge](https://img.shields.io/badge/Style-ForTheBadge-blue?style=for-the-badge)
+![Social](https://img.shields.io/badge/Style-Social-blue?style=social)
+
 
 
 
